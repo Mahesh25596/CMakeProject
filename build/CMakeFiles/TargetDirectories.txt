@@ -1,7 +1,0 @@
-C:/Users/mahes/Downloads/CMake Project/build/CMakeFiles/mylib.dir
-C:/Users/mahes/Downloads/CMake Project/build/CMakeFiles/myapp.dir
-C:/Users/mahes/Downloads/CMake Project/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/mahes/Downloads/CMake Project/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/mahes/Downloads/CMake Project/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/mahes/Downloads/CMake Project/build/tests/CMakeFiles/test_mylib.dir
-C:/Users/mahes/Downloads/CMake Project/build/tests/CMakeFiles/RUN_TESTS.dir
