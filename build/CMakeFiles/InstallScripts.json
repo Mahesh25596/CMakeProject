@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/mahes/Downloads/CMake Project/build/cmake_install.cmake",
+		"C:/Users/mahes/Downloads/CMake Project/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
